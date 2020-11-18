@@ -1,2 +1,4 @@
 # B_WebProgramming_535180029
-Web Programming subject files
+
+This repo created to become place for me to put my 'Web Programming' subject files.
+
